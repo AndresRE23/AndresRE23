@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Django, Flask<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Django, Flask<br>🎯 Goals: Apply for my first full-time role in tech and document the process, Stay curious, humble, and open to feedback and Learn the basics of cloud deployment (e.g., Vercel, Netlify, or simple Docker setups).<br>🎲 Fun fact: I love playing sports, watch anime and study science.</p>
 
 ###
 
