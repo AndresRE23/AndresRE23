@@ -57,8 +57,7 @@ Feel free to reach out or follow my work:
 
 ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  https://github.com/user-attachments/assets/02a5a5e1-cd65-48c7-8b87-32b4545142e1
-</p>
+![luffy-thumbs-up-luffy](https://github.com/user-attachments/assets/8d5c7c68-01ea-4c02-a1aa-b4881218c365)
+
 
 
