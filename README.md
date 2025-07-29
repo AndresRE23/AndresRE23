@@ -58,6 +58,7 @@ Feel free to reach out or follow my work:
 ⭐ Thanks for visiting my profile!
 
 <p align="center">
-  <img src="https://media.tenor.com/dvTzMpZD5LsAAAAC/luffy-thumbs-up-luffy.gif" width="250" alt="Luffy Thumbs Up" />
+  ![luffy-thumbs-up-luffy](https://github.com/user-attachments/assets/02a5a5e1-cd65-48c7-8b87-32b4545142e1)  
 </p>
+
 
