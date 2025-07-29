@@ -1,47 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
+<h3 align="center">I'm Andrés — a Systems Engineer from Costa Rica 🇨🇷</h3>
 
-###
+---
 
-<p align="left">My name is Andrés and I'm a Systems Engineer from Costa Rica</p>
+### 👨‍💻 About Me
 
-###
+- 🌱 Currently learning **Django**, **Flask**, and diving deeper into **backend development**
+- 🎯 **Goals for 2025**:
+  - Apply for my **first full-time role** in tech and document the journey
+  - Learn the basics of **cloud deployment** (Vercel, Netlify, Docker)
+  - Stay **curious**, **humble**, and open to **feedback**
+- 🎲 **Fun facts**:
+  - I love playing sports 🏀⚽
+  - I enjoy anime (One Piece fan 🍖)
+  - I'm passionate about science and self-learning 🧠
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ I Code With
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Django, Flask<br>🎯 Goals: Apply for my first full-time role in tech and document the process, Stay curious, humble, and open to feedback and Learn the basics of cloud deployment (e.g., Vercel, Netlify, or simple Docker setups).<br>🎲 Fun fact: I love playing sports, watch anime and study science.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-###
+---
+
+### 🧭 Personal Goals (2025)
+
+- 🔄 Build real-world apps that solve practical problems
+- 📚 Create a daily coding habit (2h/day)
+- 🤝 Join an open-source project and contribute at least once
+- 🗣️ Improve my tech communication in **English** and **Spanish**
+- 🌐 Launch my personal website as a dev portfolio
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out or follow my work:
+
+- [LinkedIn](https://www.linkedin.com/in/andrés-rivera-espinoza-b7152a20a)  
+- [Portfolio (Coming soon)](https://your-portfolio.com)  
+
+---
+
+⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <img src="https://media.tenor.com/dvTzMpZD5LsAAAAC/luffy-thumbs-up-luffy.gif" width="250" alt="Luffy Thumbs Up" />
+</p>
+
