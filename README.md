@@ -12,7 +12,7 @@
   - Stay **curious**, **humble**, and open to **feedback**
 - 🎲 **Fun facts**:
   - I love playing sports 🏀⚽
-  - I enjoy anime (One Piece fan 🍖)
+  - I enjoy anime
   - I'm passionate about science and self-learning 🧠
 
 ---
