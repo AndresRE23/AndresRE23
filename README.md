@@ -39,7 +39,6 @@
 ### 🧭 Personal Goals (2025)
 
 - 🔄 Build real-world apps that solve practical problems
-- 📚 Create a daily coding habit (2h/day)
 - 🤝 Join an open-source project and contribute at least once
 - 🗣️ Improve my tech communication in **English** and **Spanish**
 - 🌐 Launch my personal website as a dev portfolio
