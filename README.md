@@ -5,14 +5,14 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Django**, **Flask**, and diving deeper into **backend development**
+- 🌱 Currently learning **Django**, **Flask**, and diving deeper into **backend development**.
 - 🎯 **Goals for 2025**:
-  - Apply for my **first full-time role** in tech and document the journey
-  - Learn the basics of **cloud deployment** (Vercel, Netlify, Docker)
-  - Stay **curious**, **humble**, and open to **feedback**
+  - Apply for my **first full-time role** in tech and document the journey.
+  - Learn the basics of **cloud deployment**.
+  - Stay **curious**, **humble**, and open to **feedback**.
 - 🎲 **Fun facts**:
   - I love playing sports 🏀⚽
-  - I enjoy anime
+  - I enjoy anime 💢
   - I'm passionate about science and self-learning 🧠
 
 ---
@@ -38,9 +38,9 @@
 
 ### 🧭 Personal Goals (2025)
 
-- 🔄 Build real-world apps that solve practical problems
-- 🤝 Join an open-source project and contribute at least once
-- 🌐 Launch my personal website as a dev portfolio
+- 🔄 Build real-world apps that solve practical problems.
+- 🤝 Join an open-source project and contribute at least once.
+- 🌐 Launch my personal website as a dev portfolio.
 
 ---
 
